@@ -2,11 +2,11 @@
 
 ![comeon-javascript-test-site](example.png)
 
-This repository contains my solution for the ComeOn! Javascript coding test. I have successfully completed the assigned tasks and integrated the necessary functionality into the provided HTML and data. Below is an overview of the implemented features:
+This repository contains my solution With React for the ComeOn! I have successfully completed the assigned tasks and integrated the necessary functionality into the provided HTML and data. Below is an overview of the implemented features:
 
 ## Assignment Overview
 
-The assignment involved using Javascript to tie together existing HTML and data to create a minimal, working casino website. Basic HTML, CSS, images, and JSON data were provided, and I have made improvements to enhance the overall user experience.
+The assignment involved using React to tie together existing HTML and data to create a minimal, working casino website. Basic HTML, CSS, images, and JSON data were provided, and I have made improvements to enhance the overall user experience.
 
 ## Assignment Criteria
 
